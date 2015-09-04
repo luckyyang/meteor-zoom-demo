@@ -7,3 +7,4 @@ Zoom.login({email:"your-email@gmail.com",password:"yourpassword"},function(resul
     $('#btn_login').val("login success");
 });
 ```
+Refer to zoom's [API doc](https://support.zoom.us/hc/en-us/articles/204199039-JavaScript-Meeting-API)
